@@ -1,9 +1,8 @@
-
 # <div align="center">👾 Welcome to My Digital Universe 👾</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Dizzy.png" width="60" height="60" />
-  <img src="https://gifdb.com/images/high/pixel-art-cyber-city-hacker-rkqgt353jr3fdups.gif" width="500" />
+  <img src="https://i.imgur.com/q4pU9Gx.gif" width="500" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Dizzy.png" width="60" height="60" />
 </div>
 
@@ -29,16 +28,16 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="800">
+  <img src="https://i.imgur.com/YwXqVOd.gif" width="800">
 </div>
 
 ## <div align="center">⚡ About Me ⚡</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Dyzean/49a718f295605a81cacd6fc3b47cbf94/raw/bd4dd85cc1b281f4a1ee9e11c5c11f1ca36be5bc/nerd-computer.gif" width="150" />
+  <img src="https://i.imgur.com/jx17oHT.gif" width="150" />
 </div>
 
-```ascii
+ascii
 ┌───────────────────────────────────────────────────────────────────────┐
 │                                                                       │
 │   🎮 3rd Year BTech CSE Student with Big Data Analytics Specialization │
@@ -48,16 +47,16 @@
 │   🌐 Looking to collaborate on innovative data projects                │
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
-```
+
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
+  <img src="https://i.imgur.com/GHVTjw0.gif" width="800">
 </div>
 
 ## <div align="center">🛠️ Tech Arsenal 🛠️</div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" />
+  <img src="https://i.imgur.com/9dzO5V2.gif" width="100" />
 </div>
 
 <div align="center">
@@ -74,5 +73,4 @@
   <img src="https://img.shields.io/badge/Spark-ff00aa?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-ff00ff?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-00ffff?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-00b3ff?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/TensorFlow-00b3ff?style=for-the-badge&logo=tensorflow&logoColor=white" …
