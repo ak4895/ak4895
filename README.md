@@ -1,156 +1,117 @@
-# <div align="center">👾 Welcome to My Digital Universe 👾</div>
+# 👋 Hello, I'm AYUSH KUMAR
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="500" />
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</p>
-
-<div align="center">
-  <a href="mailto:ak4895@srmist.edu.in">
-    <img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aayush-kumar-439302254">
-    <img src="https://img.shields.io/badge/LinkedIn-00b3ff?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/singh_aayush_19">
-    <img src="https://img.shields.io/badge/Instagram-00ffff?style=for-the-badge&logo=instagram&logoColor=black" />
-  </a>
-  <a href="https://github.com/ak4895">
-    <img src="https://img.shields.io/badge/GitHub-ff00aa?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=720&height=100&lines=BTech+CSE+Student;Big+Data+Analytics+Specialist;Future+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=9D84B7&center=true&vCenter=true&width=600&lines=Data+Analyst;Machine+Learning+Enthusiast;Academic+Excellence+Awardee;Python+Developer;Avid+Reader" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.gif" width="800">
+  <img src="https://img.shields.io/badge/SRM%20University-B.Tech%20Pre--Final%20Year-9D84B7?style=for-the-badge" alt="SRM University" />
+  <img src="https://img.shields.io/badge/Award-Academic%20Excellence-FFD700?style=for-the-badge" alt="Academic Excellence Award" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis%20%26%20ML-9D84B7?style=for-the-badge" alt="Focus" />
 </div>
 
-## <div align="center">⚡ About Me ⚡</div>
+## 🧠 About Me
+
+I'm a pre-final year B.Tech student at SRM University with a passion for data analysis and machine learning. As a recipient of the **Academic Excellence Award**, I strive to apply my technical knowledge to solve complex problems and extract meaningful insights from data. My journey in tech combines rigorous academic learning with hands-on project development, always aiming to build solutions that make a difference.
+
+## 🚀 Technical Skills
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="150" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </div>
 
-ascii
-┌───────────────────────────────────────────────────────────────────────┐
-│                                                                       │
-│   🎮 3rd Year BTech CSE Student with Big Data Analytics Specialization │
-│   🔮 Exploring the vast universe of data one byte at a time            │
-│   🕹️ Passionate about turning raw data into meaningful insights        │
-│   📊 Always learning new technologies and frameworks                   │
-│   🌐 Looking to collaborate on innovative data projects                │
-│                                                                       │
-└───────────────────────────────────────────────────────────────────────┘
-
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-</div>
-
-## <div align="center">🛠️ Tech Arsenal 🛠️</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-ff00ff?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-00ffff?style=for-the-badge&logo=r&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-00b3ff?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-ff00aa?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-ff00ff?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-00ffff?style=for-the-badge&logo=mongodb&logoColor=black" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ak4895&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Hadoop-00b3ff?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-ff00aa?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-ff00ff?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-00ffff?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-00b3ff?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak4895&theme=midnight-purple" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" height="20">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak4895&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </div>
 
-## <div align="center">📊 Projects & Achievements 📊</div>
+## 🔬 Projects
+
+### Mental Health Chatbot
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/NLP-9D84B7?style=flat-square" alt="NLP" />
+</div>
+
+An interactive chatbot designed to provide mental health support and resources. The application utilizes natural language processing to understand user inputs and respond with empathetic and helpful information.
+
+### Fuel Cell Proton and Impurity Prediction
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-9D84B7?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-4B0082?style=flat-square" alt="Data Analysis" />
+</div>
+
+A predictive model for analyzing and forecasting proton movement and impurity levels in fuel cells. This project combines chemical principles with advanced machine learning techniques to improve fuel cell efficiency.
+
+### Diabetic Retinopathy Detection
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-9D84B7?style=flat-square" alt="Computer Vision" />
+</div>
+
+An image analysis system that detects signs of diabetic retinopathy from retinal scans. Using convolutional neural networks, this model helps in early diagnosis of diabetes-related eye conditions.
+
+### News Sentiment Analysis for Stock Prediction
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NLP-9D84B7?style=flat-square" alt="NLP" />
+  <img src="https://img.shields.io/badge/Financial%20Analysis-4B0082?style=flat-square" alt="Financial Analysis" />
+</div>
+
+A powerful tool that analyzes news sentiment to predict stock market trends. By processing large volumes of news data, this system identifies correlations between media coverage and stock price movements.
+
+## 📚 Education
+
+- **B.Tech** - SRM University (Pre-Final Year)
+- **Academic Excellence Award** - SRM University
+
+## 🔮 The Code Life
+
+```python
+while True:
+    if awake:
+        code()
+        analyze_data()
+        learn_new_tech()
+    else:
+        dream_about_code()
+```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="150" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Animation" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/ak4895"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="80"><br>
-        <b>🔮 Big Data Movie Analytics</b><br>
-        <sub>Analyzing movie trends using Hadoop & Spark</sub>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
-        <b>🤖 ML Stock Predictor</b><br>
-        <sub>Predicting stock prices with TensorFlow</sub>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-        <b>📱 Smart Campus App</b><br>
-        <sub>IoT-based campus navigation system</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="800" height="20">
-</div>
-
-## <div align="center">📈 GitHub Stats 📈</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak4895&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&icon_color=ff00aa&bg_color=101010" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak4895&theme=radical&background=101010&ring=ff00ff&fire=00b3ff&currStreakLabel=00ffff" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ak4895&theme=radical&row=1&column=6&margin-w=15&margin-h=15" width="800" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="800" height="20">
-</div>
-
-## <div align="center">🌐 Connect With Me 🌐</div>
-
-<div align="center">
-  <p>Let's transform data into digital art together! Feel free to reach out for collaborations or just a chat about the latest in data science.</p>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="150" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ak4895&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" height="20">
-</div>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xrdd7qpnlx6xpwfwu6cmxc2cry&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" />
+  <img src="https://komarev.com/ghpvc/?username=ak4895&color=9D84B7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
