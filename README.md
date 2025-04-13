@@ -129,7 +129,7 @@ A powerful tool that analyzes news sentiment to predict stock market trends. By 
 
 <img align="right" height="200px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BnODczdjJwdmRnYjdpZXJvbWhwcWZwcDY3eDJrbnF5NjF6Z2l4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- **B.Tech** - SRM University (Pre-Final Year)
+- **B.Tech** - SRM University (Pre-Final Year) With 9.7 CGPA Till 3rd Year.
 - **Academic Excellence Award** - SRM University
 
 <br clear="right"/>
