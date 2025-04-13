@@ -1,9 +1,9 @@
 # <div align="center">👾 Welcome to My Digital Universe 👾</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Dizzy.png" width="60" height="60" />
+  
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="500" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Dizzy.png" width="60" height="60" />
+
 </div>
 
 <p align="center">
