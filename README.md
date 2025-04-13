@@ -1,7 +1,9 @@
-# <div align="center">👾 Welcome to My Cyber Realm 👾</div>
+# <div align="center">👾 Welcome to My Digital Universe 👾</div>
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/pixel-art-cyber-city-hacker-rkqgt353jr3fdups.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Dizzy.png" width="60" height="60" />
+  <img src="https://gifdb.com/images/high/pixel-art-cyber-city-hacker-rkqgt353jr3fdups.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Dizzy.png" width="60" height="60" />
 </div>
 
 <div align="center">
@@ -22,10 +24,12 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=435&lines=BTech+CSE+Student;Big+Data+Enthusiast;Future+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=720&height=100&lines=BTech+CSE+Student;Big+Data+Analytics+Specialist;Future+Data+Scientist" alt="Typing SVG" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="800">
+</div>
 
 ## <div align="center">⚡ About Me ⚡</div>
 
@@ -44,6 +48,10 @@
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
+</div>
 
 ## <div align="center">🛠️ Tech Arsenal 🛠️</div>
 
@@ -77,6 +85,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVxZ2s2N3lrNXZpMXY2am41cnBvcnV5dzAyMDF3NHBnMTB6N2o2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="400">
+</div>
+
 ## <div align="center">📊 GitHub Stats 📊</div>
 
 <div align="center">
@@ -86,6 +98,11 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak4895&theme=radical&background=0D1117&border=ff00ff&stroke=ff00ff&ring=00ffff&fire=ff00aa&currStreakNum=00b3ff&sideNums=00ffff&currStreakLabel=ff00aa&sideLabels=ff00ff&dates=00b3ff" alt="GitHub Streak Stats" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak4895&bg_color=0D1117&color=00ffff&line=ff00ff&point=00b3ff&area=true&hide_border=false&border_color=ff00ff" width="90%"/>
 </div>
 
 <br>
@@ -116,6 +133,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="500">
+</div>
+
 ## <div align="center">🎯 Current Focus 🎯</div>
 
 <div align="center">
@@ -136,7 +157,7 @@
 <br>
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/1*yw2UV99HJczX5jFUGbKEgA.gif" width="300" />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/1*yw2UV99HJczX5jFUGbKEgA.gif" width="400" />
 </div>
 
 <br>
@@ -147,10 +168,22 @@
   <img src="https://i.imgur.com/dVxgV6z.gif" width="200" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="75" height="75" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memorandum.png" alt="Memorandum" width="75" height="75" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="75" height="75" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="75" height="75" />
+</div>
+
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ak4895&color=ff00ff&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/snake-gifs/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 <!-- Animated Divider -->
@@ -164,5 +197,8 @@
 </div>
 
 <div align="center">
-  <i>✨ "Data is the new oil, analytics is the combustion engine." ✨</i>
+  <i>✨ "In the world of data, I'm not just a consumer; I'm an explorer, a miner, and an architect." ✨</i>
 </div>
+
+<!-- Animated Wave -->
+<img width="100%" height="50" src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=120&section=footer"/>
